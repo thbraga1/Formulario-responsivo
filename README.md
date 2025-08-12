@@ -1,46 +1,40 @@
-Formulário Responsivo
-Este projeto é um formulário responsivo desenvolvido com HTML, CSS e JavaScript, projetado para se adaptar a diferentes tamanhos de tela, garantindo uma boa experiência de uso tanto em dispositivos móveis quanto em desktops.
+# 📋 Formulário Responsivo
 
-📸 Demonstração
-<img width="794" height="784" alt="image" src="https://github.com/user-attachments/assets/ea51a4d4-4a59-4274-885b-2f536001f87a" />
+Este é um projeto de **formulário responsivo** desenvolvido com **HTML**, **CSS** e **JavaScript**.  
+O layout adapta-se automaticamente a diferentes tamanhos de tela, garantindo uma boa experiência de uso tanto em dispositivos móveis quanto em desktops.
 
-🚀 Funcionalidades
-Layout responsivo que se ajusta a qualquer resolução.
+## 🚀 Funcionalidades
+- Layout 100% responsivo.
+- Validação de campos com JavaScript.
+- Design moderno e intuitivo.
+- Feedback visual para campos obrigatórios e erros.
+- Compatível com dispositivos móveis e desktops.
 
-Validação de campos com JavaScript.
+## 📸 Demonstração
 
-Design moderno e intuitivo.
+<img width="741" height="755" alt="image" src="https://github.com/user-attachments/assets/6ae01018-698f-4302-9004-177a19e86df6" />
 
-Campos de entrada estilizados para melhor experiência do usuário.
 
-Feedback visual em caso de erros ou campos obrigatórios não preenchidos.
+## 🛠 Tecnologias Utilizadas
+- **HTML5** – estrutura do formulário.
+- **CSS3** – estilização e responsividade.
+- **JavaScript** – validações e interatividade.
 
-🛠️ Tecnologias Utilizadas
-HTML5 – estrutura do formulário e conteúdo.
+## 📂 Estrutura de Pastas
+├── index.html # Estrutura do formulário
 
-CSS3 – estilização e responsividade.
+├── style.css # Estilos e responsividade
 
-JavaScript – interatividade e validação.
+└── script.js # Validações e interações
 
-📂 Estrutura de Pastas
-bash
-Copiar
-Editar
-/
-├── index.html        # Estrutura do formulário
-├── style.css         # Estilos e responsividade
-└── script.js         # Validações e interações
-📦 Como Usar
-Baixe ou clone este repositório:
+## 📦 Como Usar
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/thbraga1/Formulario-responsivo.git)
+   
+2. Abra o arquivo index.html no navegador.
+3. Teste o formulário em diferentes tamanhos de tela.
 
-bash
-Copiar
-Editar
-git clone [https://github.com/usuario/nome-do-repositorio.git](https://github.com/thbraga1/Formulario-responsivo.git)
-Abra o arquivo index.html em seu navegador.
-
-Teste o formulário em diferentes tamanhos de tela para ver a responsividade.
-
-📄 Licença
-Este projeto está sob a licença MIT — sinta-se à vontade para usá-lo e modificá-lo.
+## 📄 Licença
+Este projeto está licenciado sob a MIT License – sinta-se livre para usar e modificar.
 
