@@ -29,8 +29,8 @@ O layout adapta-se automaticamente a diferentes tamanhos de tela, garantindo uma
 
 ## 📦 Como Usar
 1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/thbraga1/Formulario-responsivo.git)
+   ```
+   git clone https://github.com/thbraga1/Formulario-responsivo.git
    
 2. Abra o arquivo index.html no navegador.
 3. Teste o formulário em diferentes tamanhos de tela.
